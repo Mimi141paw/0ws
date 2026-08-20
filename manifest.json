@@ -1,222 +1,222 @@
-{
-    "version": 1,
-    "files": [
-        {
-            "path": "release/models/agents/ctm_sas/ctm_sas.bin",
-            "dest": "models/agents/ctm_sas/ctm_sas.bin",
-            "size": 2175384,
-            "sha256": "1364b09233a2d1527aa14e7f4462980663d63a996f1400e3674a432cca7e15b6",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/ctm_sas/ctm_sas.gltf",
-            "dest": "models/agents/ctm_sas/ctm_sas.gltf",
-            "size": 297218,
-            "sha256": "496e65fc349efecc44fb56cd2887243d9fc5015a100cecab54685527481d79c2",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
-            "dest": "models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
-            "size": 1777219,
-            "sha256": "2a736c6f8d93a0981cd8a842de6bcd4e21b8914a1e438b979f2c13bdab6520bd",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
-            "dest": "models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
-            "size": 101,
-            "sha256": "d44d0bce4e4ba8ee8d0cdf09ad70a7ac62d880458de20ad9a9f0b5408c74ee61",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
-            "dest": "models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
-            "size": 1762399,
-            "sha256": "017ae237b867bebb6a09caf1c0d11eb9f63425beffd503cd1879aed9d9f470df",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
-            "dest": "models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
-            "size": 1266007,
-            "sha256": "78a165021b4c05e84e304f01aed4b5ffdeb49901bb30bd78cab5b143e9d09ec9",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
-            "dest": "models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
-            "size": 3210883,
-            "sha256": "841cc3b7ef3fbdbf00f4ab2e3a36f01a4189e4eb85d41cf6f58589d634681cec",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
-            "dest": "models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
-            "size": 6539550,
-            "sha256": "7f663ba5f7b9221b6dfca3ef9945d4b61a3e06ade28c56c893b78f7d8187a50d",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix.bin",
-            "dest": "models/agents/tm_phoenix/tm_phoenix.bin",
-            "size": 2032064,
-            "sha256": "7699783af02542f14c2dc0af39e30302c30fda9f29b7bebcfc30eb589dba5e12",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix.gltf",
-            "dest": "models/agents/tm_phoenix/tm_phoenix.gltf",
-            "size": 273598,
-            "sha256": "df22e8b97a7e4bfa49d5a6c9d1422443c635fc00701c66343c645187c55e0c08",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
-            "size": 3789072,
-            "sha256": "11198dba099fad966bde74e983c089b6fb3240e2e89a78bebe12f1ba7cd28ca6",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
-            "size": 635081,
-            "sha256": "96d663a0de6c29cc662e38a7b84f2ec6020817e16b882ec6bc2ab0fc65601e5b",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
-            "size": 2133486,
-            "sha256": "95f647ed83d6a1368346dd01a5eaffefaecae727484cb41c8f93e456b46bdd98",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
-            "size": 504475,
-            "sha256": "49328882da17f16837b92fb300dbd2dc2ab39376b191413c31012abd8dea4861",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
-            "size": 1195336,
-            "sha256": "c79e68e501b01e0448c6a84a2eff289da14f9fe4b40f62135134e971dc122c96",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
-            "size": 1203374,
-            "sha256": "57adbdd46d4f500a2f32c48f0fa04bfcdbba2828cbd2035a53fc99a3bcb31241",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
-            "size": 2497913,
-            "sha256": "9710e661b9c5f838c08bb851dd3c12a0a9741b8cff07a43560ad79b64e828b25",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
-            "size": 5288328,
-            "sha256": "daa290b8adbbf5cf5562a24e722f3f567ffacc46d731229b1978f9a707cd4db1",
-            "url": ""
-        },
-        {
-            "path": "release/models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
-            "dest": "models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
-            "size": 1592946,
-            "sha256": "87bf6432562bfadc13650ba57c1723446de7cdcaab3b6c204ff6093455da1d89",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
-            "dest": "models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
-            "size": 4743793,
-            "sha256": "d3bd50234e5f721625552047f38006b1e0700d4d1a0b1af8730cc2de2880004b",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_color_psd_1f318532.png",
-            "dest": "models/weapons/ak47/ak47_color_psd_1f318532.png",
-            "size": 4089597,
-            "sha256": "ce66eac99ec318595a98772cd37377df72fadadb3bc3b24dc1562db29cd13259",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
-            "dest": "models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
-            "size": 18746916,
-            "sha256": "e00e514c2e184bc9894dab61d5df02e4ed4e707aa938b7ede2b8376da9affc3d",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
-            "dest": "models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
-            "size": 16433591,
-            "sha256": "d55e82e27b47ebe0c85edf06ec53beae6746d7e64cb64f265787ff11f10dc214",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
-            "dest": "models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
-            "size": 17005775,
-            "sha256": "24cd7a276d1b2ccb1410db28851a92bdb3a62bdd080d5a30aa05e526ecb0a409",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
-            "dest": "models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
-            "size": 3938270,
-            "sha256": "44f27593dfe3bedcf3eeebdd388c9aeb9a2f79be746aadb82da6a9c28a32432e",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
-            "dest": "models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
-            "size": 84,
-            "sha256": "d6c61241bbeca655b92f3b26d627b7ae3a1b13dd6967de0fbd533987ff1a0e14",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
-            "dest": "models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
-            "size": 84,
-            "sha256": "c9c25b8c7b6088cbe5102eacbd1c8557d9ceb77727766a42a3aa22a084f76a9c",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/physics_weaponrifle.png",
-            "dest": "models/weapons/ak47/physics_weaponrifle.png",
-            "size": 3672,
-            "sha256": "ec1e8acfd256d2942435b49011a157994556d6d4d48cf879ebbbd353b072ac8a",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
-            "dest": "models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
-            "size": 84,
-            "sha256": "1896f9c6deff5acfdcc678224f14c8b6868b246f16a299864770c19c9daa5c88",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/weapon_rif_ak47.bin",
-            "dest": "models/weapons/ak47/weapon_rif_ak47.bin",
-            "size": 3233196,
-            "sha256": "fefe57fc93a3ca319e2d5ee56eb8ba44d13dab1865d73280b0feafd4fa262070",
-            "url": ""
-        },
-        {
-            "path": "release/models/weapons/ak47/weapon_rif_ak47.gltf",
-            "dest": "models/weapons/ak47/weapon_rif_ak47.gltf",
-            "size": 69111,
-            "sha256": "2b2be832552ff2ed431ced852ec004d0d76c0e571310c11636834cf9a7fbf5e0",
-            "url": ""
-        }
-    ]
+﻿{
+    "version":  1,
+    "files":  [
+                  {
+                      "path":  "assets/models/agents/ctm_sas/ctm_sas.bin",
+                      "dest":  "models/agents/ctm_sas/ctm_sas.bin",
+                      "size":  2175384,
+                      "sha256":  "1364b09233a2d1527aa14e7f4462980663d63a996f1400e3674a432cca7e15b6",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/ctm_sas/ctm_sas.gltf",
+                      "dest":  "models/agents/ctm_sas/ctm_sas.gltf",
+                      "size":  297218,
+                      "sha256":  "496e65fc349efecc44fb56cd2887243d9fc5015a100cecab54685527481d79c2",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_133_color_psd_5b76e0cf.png",
+                      "size":  1777219,
+                      "sha256":  "2a736c6f8d93a0981cd8a842de6bcd4e21b8914a1e438b979f2c13bdab6520bd",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_133_vmat_g_tambientocclusion_9782fd5c_orm_1851347813.png",
+                      "size":  101,
+                      "sha256":  "d44d0bce4e4ba8ee8d0cdf09ad70a7ac62d880458de20ad9a9f0b5408c74ee61",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
+                      "dest":  "models/agents/tm_phoenix/bare_arm_normal_tga_c9fefc2d.png",
+                      "size":  1762399,
+                      "sha256":  "017ae237b867bebb6a09caf1c0d11eb9f63425beffd503cd1879aed9d9f470df",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_ao_psd_37541d21_orm_1139827744.png",
+                      "size":  1266007,
+                      "sha256":  "78a165021b4c05e84e304f01aed4b5ffdeb49901bb30bd78cab5b143e9d09ec9",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_color_psd_935f70c2.png",
+                      "size":  3210883,
+                      "sha256":  "841cc3b7ef3fbdbf00f4ab2e3a36f01a4189e4eb85d41cf6f58589d634681cec",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
+                      "dest":  "models/agents/tm_phoenix/glove_fullfinger_normal_tga_c013e034.png",
+                      "size":  6539550,
+                      "sha256":  "7f663ba5f7b9221b6dfca3ef9945d4b61a3e06ade28c56c893b78f7d8187a50d",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix.bin",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix.bin",
+                      "size":  2032064,
+                      "sha256":  "7699783af02542f14c2dc0af39e30302c30fda9f29b7bebcfc30eb589dba5e12",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix.gltf",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix.gltf",
+                      "size":  273598,
+                      "sha256":  "df22e8b97a7e4bfa49d5a6c9d1422443c635fc00701c66343c645187c55e0c08",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_body_normal_psd_bdeb78fa.png",
+                      "size":  3789072,
+                      "sha256":  "11198dba099fad966bde74e983c089b6fb3240e2e89a78bebe12f1ba7cd28ca6",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_legs_ao_psd_d67a962e_orm_2458679251.png",
+                      "size":  635081,
+                      "sha256":  "96d663a0de6c29cc662e38a7b84f2ec6020817e16b882ec6bc2ab0fc65601e5b",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_legs_normal_psd_881fe0ed.png",
+                      "size":  2133486,
+                      "sha256":  "95f647ed83d6a1368346dd01a5eaffefaecae727484cb41c8f93e456b46bdd98",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_cloth_psd_4adffbf0_orm_258026592.png",
+                      "size":  504475,
+                      "sha256":  "49328882da17f16837b92fb300dbd2dc2ab39376b191413c31012abd8dea4861",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_normal_psd_d991e591.png",
+                      "size":  1195336,
+                      "sha256":  "c79e68e501b01e0448c6a84a2eff289da14f9fe4b40f62135134e971dc122c96",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_balaclava_varianta_color_psd_3019cf96.png",
+                      "size":  1203374,
+                      "sha256":  "57adbdd46d4f500a2f32c48f0fa04bfcdbba2828cbd2035a53fc99a3bcb31241",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_body_ao_psd_3f117e67_orm_1554291442.png",
+                      "size":  2497913,
+                      "sha256":  "9710e661b9c5f838c08bb851dd3c12a0a9741b8cff07a43560ad79b64e828b25",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_body_variante_color_psd_a036cb51.png",
+                      "size":  5288328,
+                      "sha256":  "daa290b8adbbf5cf5562a24e722f3f567ffacc46d731229b1978f9a707cd4db1",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
+                      "dest":  "models/agents/tm_phoenix/tm_phoenix_v2_legs_variantb_color_psd_74802a99.png",
+                      "size":  1592946,
+                      "sha256":  "87bf6432562bfadc13650ba57c1723446de7cdcaab3b6c204ff6093455da1d89",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
+                      "dest":  "models/weapons/ak47/ak47_ao_psd_286fb1af_orm_2165450181.png",
+                      "size":  4743793,
+                      "sha256":  "d3bd50234e5f721625552047f38006b1e0700d4d1a0b1af8730cc2de2880004b",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_color_psd_1f318532.png",
+                      "dest":  "models/weapons/ak47/ak47_color_psd_1f318532.png",
+                      "size":  4089597,
+                      "sha256":  "ce66eac99ec318595a98772cd37377df72fadadb3bc3b24dc1562db29cd13259",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
+                      "dest":  "models/weapons/ak47/ak47_default_ao_png_b00f6e2e_orm_1322888879.png",
+                      "size":  18746916,
+                      "sha256":  "e00e514c2e184bc9894dab61d5df02e4ed4e707aa938b7ede2b8376da9affc3d",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
+                      "dest":  "models/weapons/ak47/ak47_default_color_psd_5b66a23b.png",
+                      "size":  16433591,
+                      "sha256":  "d55e82e27b47ebe0c85edf06ec53beae6746d7e64cb64f265787ff11f10dc214",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
+                      "dest":  "models/weapons/ak47/ak47_default_normal_png_c8c5793e.png",
+                      "size":  17005775,
+                      "sha256":  "24cd7a276d1b2ccb1410db28851a92bdb3a62bdd080d5a30aa05e526ecb0a409",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
+                      "dest":  "models/weapons/ak47/ak47_normal_psd_57f37ac9.png",
+                      "size":  3938270,
+                      "sha256":  "44f27593dfe3bedcf3eeebdd388c9aeb9a2f79be746aadb82da6a9c28a32432e",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
+                      "dest":  "models/weapons/ak47/default_ao_tga_559f1ac6_orm_289720758.png",
+                      "size":  84,
+                      "sha256":  "d6c61241bbeca655b92f3b26d627b7ae3a1b13dd6967de0fbd533987ff1a0e14",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
+                      "dest":  "models/weapons/ak47/default_normal_tga_4fc2d3dd.png",
+                      "size":  84,
+                      "sha256":  "c9c25b8c7b6088cbe5102eacbd1c8557d9ceb77727766a42a3aa22a084f76a9c",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/physics_weaponrifle.png",
+                      "dest":  "models/weapons/ak47/physics_weaponrifle.png",
+                      "size":  3672,
+                      "sha256":  "ec1e8acfd256d2942435b49011a157994556d6d4d48cf879ebbbd353b072ac8a",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
+                      "dest":  "models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png",
+                      "size":  84,
+                      "sha256":  "1896f9c6deff5acfdcc678224f14c8b6868b246f16a299864770c19c9daa5c88",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/weapon_rif_ak47.bin",
+                      "dest":  "models/weapons/ak47/weapon_rif_ak47.bin",
+                      "size":  3233196,
+                      "sha256":  "fefe57fc93a3ca319e2d5ee56eb8ba44d13dab1865d73280b0feafd4fa262070",
+                      "url":  ""
+                  },
+                  {
+                      "path":  "assets/models/weapons/ak47/weapon_rif_ak47.gltf",
+                      "dest":  "models/weapons/ak47/weapon_rif_ak47.gltf",
+                      "size":  69111,
+                      "sha256":  "2b2be832552ff2ed431ced852ec004d0d76c0e571310c11636834cf9a7fbf5e0",
+                      "url":  ""
+                  }
+              ]
 }
