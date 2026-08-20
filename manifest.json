@@ -32,5 +32,7 @@
     {"path": "assets/models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png", "dest": "models/weapons/ak47/sticker_gaps_vmat_g_tcolor_44181499.png", "size": 84, "sha256": "1896f9c6deff5acfdcc678224f14c8b6868b246f16a299864770c19c9daa5c88", "url": ""},
     {"path": "assets/models/weapons/ak47/weapon_rif_ak47.bin", "dest": "models/weapons/ak47/weapon_rif_ak47.bin", "size": 3233196, "sha256": "fefe57fc93a3ca319e2d5ee56eb8ba44d13dab1865d73280b0feafd4fa262070", "url": ""},
     {"path": "assets/models/weapons/ak47/weapon_rif_ak47.gltf", "dest": "models/weapons/ak47/weapon_rif_ak47.gltf", "size": 69111, "sha256": "2b2be832552ff2ed431ced852ec004d0d76c0e571310c11636834cf9a7fbf5e0", "url": ""}
+    {"path": "assets/menu/pupicon.png", "dest": "menu/pupicon.png", "size": 1497234, "sha256": "PLACEHOLDER_PUPICON", "url": ""},
+    {"path": "assets/menu/pupicon2.png", "dest": "menu/pupicon2.png", "size": 1443799, "sha256": "PLACEHOLDER_PUPICON2", "url": ""},
   ]
 }
